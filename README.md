@@ -112,7 +112,3 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Croixen&color=blue&style=flat-square&label=Profile+Views" />
-</p>
-
