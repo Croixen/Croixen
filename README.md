@@ -24,9 +24,9 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 
 - 🔭 Currently working on **backend API development** with TypeScript & Python
 - 🌱 Learning and experimenting with **ML/AI** through Dicoding certifications
-- 🛠️ Comfortable working from **hardware (C++/IoT)** to **API layers (FastAPI, Node)**
+- 🛠️ Comfortable working from **hardware (Arduino / ESP32)** to **API layers (FastAPI, Node)**
 - 🤝 Open to collaboration on backend, ML, or embedded projects
-- 📫 Reach me at **kelvinriyanto555@gmail.com**
+- 📫 Reach me at **penguin555.san@gmail.com** or **kelvinriyanto555@gmail.com**
 
 ---
 
@@ -36,7 +36,6 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
@@ -53,6 +52,8 @@ I'm a developer passionate about building reliable backend systems, exploring ma
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
@@ -60,10 +61,8 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 <p>
   <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6719?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
 ### Databases
@@ -104,19 +103,6 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Croixen&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croixen&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Croixen&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 <p>
@@ -130,4 +116,3 @@ I'm a developer passionate about building reliable backend systems, exploring ma
   <img src="https://komarev.com/ghpvc/?username=Croixen&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
