@@ -97,8 +97,8 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 |---|---|---|
 | [📄 pdf_scope_api](https://github.com/Croixen/pdf_scope_api) | REST API for PDF scoping and management | TypeScript |
 | [🌤️ weather-prediction-iot-pub](https://github.com/Croixen/weather-prediction-iot-pub) | Final year project — local weather station with on-chip TinyML inference on ESP32-S3, BME280 sensor, and MQTT publishing | C++, ESP-IDF, TinyML |
-| [🤖 Recommendation System](https://github.com/Croixen/Dicoding_Expert_Recommendation_system) | Expert-level ML recommendation engine (Dicoding) | Python, Jupyter |
-| [📈 Gold Price Prediction](https://github.com/Croixen/predictive_analytics_dicoding_gold_price_prediction) | Predictive analytics model for gold price forecasting | Python, Jupyter |
+| [🤖 Recommendation System](https://github.com/Croixen/Dicoding_Expert_Recommendation_system) | ML recommendation System (Dicoding - Expert) | Python, Jupyter |
+| [📈 Gold Price Prediction](https://github.com/Croixen/predictive_analytics_dicoding_gold_price_prediction) | Predictive analytics model for gold price forecasting (Dicoding - Intermediate) | Python, Jupyter |
 | [⚡ FastAPI Learning](https://github.com/Croixen/FastapiLearn) | Hands-on FastAPI REST API project | Python, FastAPI |
 
 ---
