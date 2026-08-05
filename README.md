@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kelvin Riyanto 👋</h1>
 
 <p align="center">
-  <em>Backend Developer · Machine Learning Engineer · Embedded Systems Enthusiast</em>
+  <em>Backend Developer · Machine Learning Enthusiast · Embedded Systems Enthusiast</em>
 </p>
 
 <p align="center">
@@ -20,12 +20,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer passionate about building reliable backend systems, exploring machine learning, and working with embedded hardware. I enjoy solving real-world problems through clean, efficient code — whether that's designing REST APIs, training predictive models, or programming microcontrollers.
+I'm a developer passionate about building backend systems, exploring machine learning, and working with embedded hardware for fun. I enjoy solving real-world problems through clean, efficient code — whether that's designing REST APIs, or training predictive models.
 
-- 🔭 Currently working on **backend API development** with TypeScript & Python
-- 🌱 Learning and experimenting with **ML/AI** through Dicoding certifications
-- 🛠️ Comfortable working from **hardware (Arduino / ESP32)** to **API layers (FastAPI, Node)**
-- 🤝 Open to collaboration on backend, ML, or embedded projects
+- 🔭 Currently working on **backend API development** with TypeScript & Python & go
+- 🌱 Learning and experimenting with **ML/AI** 
+- 🛠️ Comfortable working from **hardware (Arduino / ESP32)** to **API layers (FastAPI, Node, go)**
 - 📫 Reach me at **penguin555.san@gmail.com** or **kelvinriyanto555@gmail.com**
 
 ---
@@ -35,6 +34,7 @@ I'm a developer passionate about building reliable backend systems, exploring ma
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://go.dev"><img src="https://shields.io" alt="Go" /></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
